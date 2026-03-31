@@ -1,0 +1,22 @@
+Name: Ajay Khokhar
+Roll Number: 8025320010
+Course: PCS221 Cloud Computing
+
+Public IP: 4.240.102.231
+
+VM Website:
+http://4.240.102.231/index.html
+
+Contact Page:
+http://4.240.102.231/contact.html
+
+Description:
+- Created VM in Azure
+- Installed Apache server
+- Hosted HTML pages
+- Configured networking (Port 80)
+- Verified website using public IP
+
+Static Website:
+https://ajayss.z29.web.core.windows.net/
+This website is hosted using Azure Storage without a VM.
